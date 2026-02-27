@@ -13,3 +13,6 @@ env/
 
 # User folders
 data/
+
+#Environment variables
+.env
